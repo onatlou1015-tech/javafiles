@@ -8,7 +8,7 @@
 
   // ---------- Verses ----------
   const VERSES = [
-    { text: "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.", reference: "John 3:16" },
+    { text: "เพราะว่าพระเจ้าทรงรักโลก จนได้ประทานพระบุตรองค์เดียวของพระองค์ เพื่อทุกคนที่วางใจในพระบุตรนั้นจะไม่พินาศ แต่มีชีวิตนิรันดร์", reference: "John 3:16" },
     { text: "I can do all this through him who gives me strength.", reference: "Philippians 4:13" },
     { text: "The Lord is my shepherd; I shall not want.", reference: "Psalm 23:1" },
     { text: "Trust in the Lord with all your heart and lean not on your own understanding.", reference: "Proverbs 3:5" },
