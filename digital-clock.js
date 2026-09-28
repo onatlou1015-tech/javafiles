@@ -13,7 +13,7 @@
     showDate: true,             // show day + date below the time
     showSeconds: true,          // show seconds
     use12Hour: true,            // true = 12-hour (AM/PM), false = 24-hour
-    backgroundColor: '#AA93B8', // purple
+    backgroundColor: '#0510e8', // purple
     textColor: '#F3D3A7',       // cream
     borderColor: '#C88561',     // brown
     shadowColor: 'rgba(43, 32, 24, 0.3)'
